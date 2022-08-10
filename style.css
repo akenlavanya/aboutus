@@ -1,0 +1,219 @@
+*{
+    margin:0;
+    padding: 0;
+}
+.navbar ul{
+    list-style: none;
+    background:#000D47;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color:white;
+}
+.navbar li{
+    display: inline-block;
+}
+.navbar a{
+    text-decoration: none;
+    color: #fff;
+    width:100px;
+    display: block; 
+    padding: 25px 20px; 
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+.main-heading{
+    margin:20px 0px 0px;
+    font:25px Helvetica-Bold,sans-serif;
+    text-align: center;
+    color:#000D47;
+}
+.main{
+    margin:50px 0px 0px;
+    color:#8E8E96;
+    text-align: center;
+    font:22px Helvetica-Bold,sans-serif;
+}
+.about{
+    margin-top: 60px;
+    font:18px Helvetica-Bold,sans-serif;
+    color:#000D47;
+    margin-bottom: 10;
+    margin-left:200px;
+    font-weight: 500;
+}
+.about-data{
+    color:#303031;
+    margin-top:20px;
+    font-size: 18px;
+    letter-spacing: 0.3px;
+    font:17px Helvetica-Light,sans-serif;
+    line-height: 1.6;
+}
+.our_approaches{
+    margin-top:50px;
+    margin-left: 200px;
+    font:18px Helvetica-Bold,sans-serif;
+    color:#303031;
+}
+.our_approaches_content{
+    margin-left:50px;
+    font:17px Helvetica-Light,sans-serif;
+    line-height: 1.6;
+}
+.career4u-appr{
+    margin-top: 200px;
+    font:18px Helvetica-Light,sans-serif;
+    letter-spacing: 0.5px;
+}
+h1,h2{
+    color:#000D47;
+}
+.career4u-appr{
+    margin-left: 200px;
+    font:17px Helveica-Light,sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.6;
+}
+.image1{
+    float: right;
+    margin-top: 80px;
+    margin-right: 220px;
+    width:500px;
+    height: 400px;
+}
+.get_started{
+    margin-left: 200px;
+    text-decoration: none;
+    font:18px Helvetic-Medium,sans-serif;
+    text-decoration: none;
+    color: #ea0fee;
+}
+
+.image2{
+    float: left;
+    margin-top: 120px;
+    margin-left: 220px;
+    width:420px;
+    height:400px;
+}
+.career4u-appr2{
+    margin-top: 110px;
+    margin-right: 90px;
+    float: right;
+    font:17px Helveica-Light,sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.6;
+}
+.get_started2{
+    margin-top: 315px;
+    float: right;
+    margin-right:-90px;
+    font:18px Helvetic-Medium,sans-serif;
+}
+.image3{
+    float: right;
+    margin-top: 100px;
+    margin-right:250px;
+}
+.career4u-appr3{
+    margin-top: 630px;
+    margin-left: 260px;
+    font:17px Helvetic-Light,sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+
+}
+.get_started3{
+    margin-top: 30px;
+    margin-left:260px;
+    font:18px Helvetic-Light,sans-serif;
+}
+.image4{
+    margin-top: 120px;
+    margin-left:200px
+}
+.career4u-appr4{
+    float: right;
+    margin-top:-300px;
+    margin-right: 230px;
+    font:17px Helvetic-Light,sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.get_started4{
+    margin-top: 15px;
+    padding-right:10px;
+    padding-bottom: 3px;
+    margin-left:0px;
+    font:18px Helvetic-Light,sans-serif;
+}
+.image5{
+    
+    margin-right: 180px;
+    float: right;
+    opacity: 1;
+}
+.career4u-appr5{
+    margin-top:110px;
+    margin-left: 175px;
+    font:17px Helvetic-Light,sans-serif;
+    line-height: 1.6;
+    letter-spacing: 1px;
+}
+.get_started5{
+    margin-top: 15px;
+    font:18px Helvetic-Medium,sans-serif;
+    font:18px Helvetic-Light,sans-serif;
+}
+
+.image6{
+    margin-top: 130px;
+    margin-left: 200px;
+    width:480px;
+    height:380px;
+}
+.career4u-appr6{
+    margin-top: -320px;
+    margin-right: 230px;
+    float: right;
+    font:17px Helveica-Light,sans-serif;
+    letter-spacing: 1px;
+    line-height: 1.6;
+}
+
+.get_started6{
+    font:18px Helvetic-Light,sans-serif;
+}
+
+.footer-section{
+    margin-top:80px;
+    background: #000D47;
+    height: 240px;
+    width: auto; 
+}
+.logo{
+    margin:30px;
+    width:70px;
+    height:70px;
+    margin-left:10px
+}
+p{
+    font:17px Helvetica-Light,sans-serif;
+}
+.copy{
+    color:white;
+    font:17px Helvetica-Light,sans-serif;
+    margin-left: 10px;
+    margin-top: -20px;
+}
+.footer-about{
+    font:17px Helvetica-Medium,sans-serif;
+    color:#fff;
+    padding-bottom:-60%;    
+    margin-right: 600px;
+}
+.footer-section{
+    color: #fff;
+}
