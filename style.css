@@ -170,13 +170,13 @@ h1,h2{
 
 .image6{
     margin-top: 130px;
-    margin-left: 200px;
+    margin-left: 130px;
     width:480px;
     height:380px;
 }
 .career4u-appr6{
     margin-top: -320px;
-    margin-right: 230px;
+    margin-right: 250px;
     float: right;
     font:17px Helveica-Light,sans-serif;
     letter-spacing: 1px;
@@ -185,35 +185,4 @@ h1,h2{
 
 .get_started6{
     font:18px Helvetic-Light,sans-serif;
-}
-
-.footer-section{
-    margin-top:80px;
-    background: #000D47;
-    height: 240px;
-    width: auto; 
-}
-.logo{
-    margin:30px;
-    width:70px;
-    height:70px;
-    margin-left:10px
-}
-p{
-    font:17px Helvetica-Light,sans-serif;
-}
-.copy{
-    color:white;
-    font:17px Helvetica-Light,sans-serif;
-    margin-left: 10px;
-    margin-top: -20px;
-}
-.footer-about{
-    font:17px Helvetica-Medium,sans-serif;
-    color:#fff;
-    padding-bottom:-60%;    
-    margin-right: 600px;
-}
-.footer-section{
-    color: #fff;
 }
